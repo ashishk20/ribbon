@@ -1,5 +1,5 @@
 # ribbon
-This is a client side dynamic load balancer for [https://github.com/ashishk20/key-value] key-value service
+This is a client side dynamic load balancer for [key-value service](https://github.com/ashishk20/key-value) 
 
 # Building
 
